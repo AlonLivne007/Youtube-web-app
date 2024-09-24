@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VkMXk5Z2l2Nmk4cmswNmhuc3AyZnpjdzY4d2QxdTYzemoyMzdubSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Nc3xlO1kGg3S/giphy.gif" width="30%" alt="logo"/>
   <br/>
-  Welcome to my youtube App
+  Welcome to my youtube web App
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" alt="waveEmoji"/>
 </h1>
 
