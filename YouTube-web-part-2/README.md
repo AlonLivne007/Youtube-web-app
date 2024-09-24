@@ -18,7 +18,7 @@ Here is a link: https://github.com/AlonLivne007/Youtube-web-server.git
 Download Instructions:
 
 *first make sure to download the server and run its script to add videos and users.
-1. Clone the repository into your IDE from this link into a new folder:  https://github.com/AlonLivne007/Youtube-web-app.git 
+1. Clone the repository into your IDE from this link into a new folder:  https://github.com/AlonLivne007/Youtube-web-app/tree/main/YouTube-web-part-2
 2. Open the terminal in your new React project and enter: npm install to add node_modules.
 3. Enter in the terminal the command: npm start to open the project in localhost:3000 on the web.
 4. Note that you should receive from the server 3 defualt users you can log into, and 20 defualt videos for you to enjoy.
