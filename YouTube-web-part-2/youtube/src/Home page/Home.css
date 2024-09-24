@@ -1,0 +1,21 @@
+.video-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px; /* Adjust the gap between videos as needed */
+}
+
+.video-item {
+    display: flex;
+    cursor: pointer;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.video-item img {
+    width: 100%;
+    height: auto;
+}
+
+.video-info {
+    padding: 8px;
+}

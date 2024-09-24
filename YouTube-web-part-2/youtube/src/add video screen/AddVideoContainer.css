@@ -1,0 +1,133 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* the main container */
+.container-rec {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 90vw; 
+  height: auto;
+  border: 1px solid gray;
+  box-sizing: border-box;
+  margin: auto;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.inner-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 60%;
+}
+
+.form-floating {
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+
+.Dubi {
+  margin-top: 15px;
+}
+
+.add-button {
+  width: 100%;
+  padding: 10px;
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.image-container {
+  margin-left: 20px; /* מרווח בין התמונה לתיבות הטקסט */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.my-image {
+  width: 350px;
+  height: 200px;
+}
+
+/* from here just for upload */
+.upload-container {
+  margin-top: 20px;
+  margin-left: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.upload-label {
+  background-color: red;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.upload-input {
+  
+  display: none;
+}
+
+/* עד פה לעלות תמונה */
+.login-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.login-button {
+  padding: 15px 30px;
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  animation: pulse 3s infinite;
+}
+
+.login-button:hover {
+  background-color: red;
+}
+
+@keyframes pulse {
+  0% {
+      transform: scale(1);
+      box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  }
+  50% {
+      transform: scale(1.1);
+      box-shadow: 0 0 20px rgba(0, 123, 255, 0.7);
+  }
+  100% {
+      transform: scale(1);
+      box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  }
+}
+
+@media (max-width: 768px) {
+  .container-rec {
+      flex-direction: column;
+      align-items: center;
+      padding: 10px;
+  }
+}

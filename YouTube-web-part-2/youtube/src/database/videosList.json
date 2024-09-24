@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Cheesecake",
+        "artist": "Baker Jane",
+        "views": "8M",
+        "time": "1",
+        "subscribers": "181M",
+        "likes": 1252,
+        "description": "Video of cheesecake",
+        "avatar": "/localPhotos/defualtAvatar.png",
+        "videoUrl": "/localVideos/cheesecake.mp4",
+        "comments": [
+            {"username": "User1", "avatar": "/localPhotos/defualtAvatar.png", "text": "Looks delicious!" },
+            {"username": "User2", "avatar": "/localPhotos/defualtAvatar.png", "text": "Can't wait!" }
+        ]
+    },
+    {
+        "title": "Chicken Breast",
+        "artist": "Chef Mike",
+        "views": "12M",
+        "time": "11",
+        "subscribers": "163M",
+        "likes": 1124,
+        "description":"video of chicked breast",
+        "avatar": "/localPhotos/defualtAvatar.png",
+        "videoUrl": "/localVideos/chicken breast.mp4",
+        "comments": [
+            {"username": "User3", "avatar": "/localPhotos/defualtAvatar.png", "text": "Looks delicious!" },
+            {"username": "User4", "avatar": "/localPhotos/defualtAvatar.png", "text": "Can't wait!" }
+        ]
+    },
+    {
+        "title": "Doughnut",
+        "artist": "Baker Sam",
+        "views": "7M",
+        "time": "1",
+        "subscribers": "100M",
+        "likes": 623,
+        "description":"video of a doughnut",
+        "avatar": "/localPhotos/defualtAvatar.png",
+        "videoUrl": "/localVideos/Doughnut.mp4",
+        "comments": [
+            {"username": "User5", "avatar": "/localPhotos/defualtAvatar.png", "text": "Looks delicious!" },
+            {"username": "User6", "avatar": "/localPhotos/defualtAvatar.png", "text": "Can't wait!" }
+        ]
+    },
+    {
+        "title": "Fancy Steak",
+        "artist": "Chef Anna",
+        "views": "20M",
+        "time": "5",
+        "subscribers": "103M",
+        "likes": 8421,
+        "description":"video of a fancy steak",
+        "avatar": "/localPhotos/defualtAvatar.png",
+        "videoUrl": "/localVideos/fancy steak.mp4",
+        "comments": [
+            {"username": "User7", "avatar": "/localPhotos/defualtAvatar.png", "text": "Looks delicious!" },
+            {"username": "User8", "avatar": "/localPhotos/defualtAvatar.png", "text": "Can't wait!" }
+        ]
+    },
+    {
+        "title": "Frying Stuff",
+        "artist": "Chef Bob",
+        "views": "9M",
+        "time": "1",
+        "subscribers": "11M",
+        "likes": 7343,
+        "description":"video of frying stuff",
+        "avatar": "/localPhotos/defualtAvatar.png",
+        "videoUrl": "/localVideos/frying stuff.mp4",
+        "comments": [
+            {"username": "User9", "avatar": "/localPhotos/defualtAvatar.png", "text": "Looks delicious!" },
+            {"username": "User10", "avatar": "/localPhotos/defualtAvatar.png", "text": "Can't wait!" }
+        ]
+    },
+    {
+        "title": "Hamburger",
+        "artist": "Chef Rick",
+        "views": "18M",
+        "time": "1",
+        "subscribers": "100M",
+        "likes": 634,
+        "description":"video of a hamburger",
+        "avatar": "/localPhotos/defualtAvatar.png",
+        "videoUrl": "/localVideos/hamburger.mp4",
+        "comments": [
+            {"username": "User11", "avatar": "/localPhotos/defualtAvatar.png", "text": "Looks delicious!" },
+            {"username": "User12", "avatar": "/localPhotos/defualtAvatar.png", "text": "Can't wait!" }
+        ]
+    },
+    {
+        "title": "Pizza",
+        "artist": "Chef Luigi",
+        "views": "25M",
+        "time": "1",
+        "subscribers": "102M",
+        "likes": 524,
+        "description":"video of a pizza",
+        "avatar": "/localPhotos/defualtAvatar.png",
+        "videoUrl": "/localVideos/pizza.mp4",
+        "comments": [
+            {"username": "User13", "avatar": "/localPhotos/defualtAvatar.png", "text": "Looks delicious!" },
+            {"username": "User14", "avatar": "/localPhotos/defualtAvatar.png", "text": "Can't wait!" }
+        ]
+    },
+    {
+        "title": "Salmon",
+        "artist": "Chef Dave",
+        "views": "14M",
+        "time": "4",
+        "subscribers": "1000",
+        "likes": 5427,
+        "description":"video of a salmon",
+        "avatar": "/localPhotos/defualtAvatar.png",
+        "videoUrl": "/localVideos/salmon.mp4",
+        "comments": [
+            {"username": "User15", "avatar": "/localPhotos/defualtAvatar.png", "text": "Looks delicious!" },
+            {"username": "User16", "avatar": "/localPhotos/defualtAvatar.png", "text": "Can't wait!" }
+        ]
+    },
+    {
+        "title": "Steak",
+        "artist": "Chef Maria",
+        "views": "22M",
+        "time": "2",
+        "subscribers": "100M",
+        "likes": 971,
+        "description":"video of a steak",
+        "avatar": "/localPhotos/defualtAvatar.png",
+        "videoUrl": "/localVideos/steak.mp4",
+        "comments": [
+            {"username": "User17", "avatar": "/localPhotos/defualtAvatar.png", "text": "Looks delicious!" },
+            {"username": "User18", "avatar": "/localPhotos/defualtAvatar.png", "text": "Can't wait!" }
+        ]
+    },
+    {
+        "title": "Food Truck",
+        "artist": "Mister Man",
+        "views": "222M",
+        "time": "23",
+        "subscribers": "10B",
+        "likes": 12473,
+        "description":"video of a food truck",
+        "avatar": "/localPhotos/defualtAvatar.png",
+        "videoUrl": "/localVideos/foodTruck.mp4",
+        "comments": [
+            {"username": "User19", "avatar": "/localPhotos/defualtAvatar.png", "text": "Looks delicious!" },
+            {"username": "User20", "avatar": "/localPhotos/defualtAvatar.png", "text": "Can't wait!" }
+        ]
+    }
+]

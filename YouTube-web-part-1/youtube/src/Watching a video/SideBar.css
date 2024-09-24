@@ -1,0 +1,22 @@
+.sidebar {
+    padding: 15px;
+}
+
+.video-item {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.video-info {
+    margin-left: 15px; /* Adjust the spacing as needed */
+}
+
+.video-title {
+    font-weight: bold;
+}
+
+.img-fluid {
+    max-width: 150px; /* Adjust the width of the thumbnail as needed */
+    height: auto;
+}
