@@ -1,11 +1,24 @@
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VkMXk5Z2l2Nmk4cmswNmhuc3AyZnpjdzY4d2QxdTYzemoyMzdubSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Nc3xlO1kGg3S/giphy.gif" width="30%" alt="logo"/>
+  <br/>
+  Welcome to my youtube App
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" alt="waveEmoji"/>
+</h1>
+
+<h2 align="center">
+   This is a responsive youtube web app built using html, css, bootstrap, javascript and react
+    <br/>    <br/> 
+</h2>
+<br/>
+
 This YouTube React app is a video player application that runs on the web. Its design and functionality are inspired by YouTube, created as a project for the Advanced Systems Programming course in the BIU Computer Science Department.
 This branch contains part 2 of the project - make sure you first download the server repository to your computer, and run it before you start working on this.
-Here is a link: https://github.com/Toms752384/Youtube-web-server.git
+Here is a link: https://github.com/AlonLivne007/Youtube-web-server.git
 
 Download Instructions:
 
 *first make sure to download the server and run its script to add videos and users.
-1. Clone the repository into your IDE from this link into a new folder:  https://github.com/AlonLivne007/YouTube-project-.git
+1. Clone the repository into your IDE from this link into a new folder:  https://github.com/AlonLivne007/Youtube-web-app.git 
 2. Open the terminal in your new React project and enter: npm install to add node_modules.
 3. Enter in the terminal the command: npm start to open the project in localhost:3000 on the web.
 4. Note that you should receive from the server 3 defualt users you can log into, and 20 defualt videos for you to enjoy.
